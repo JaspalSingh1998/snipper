@@ -22511,8 +22511,7 @@ video {
 }
 
 .text-5xl {
-  font-size: 3rem;
-  line-height: 1;
+  font-size: 3.5rem;
 }
 
 .text-6xl {
@@ -54266,8 +54265,7 @@ video {
   }
 
   .sm\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
+    font-size: 3.5rem;
   }
 
   .sm\:text-6xl {
@@ -85665,8 +85663,7 @@ video {
   }
 
   .md\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
+    font-size: 3.5rem;
   }
 
   .md\:text-6xl {
@@ -117064,8 +117061,7 @@ video {
   }
 
   .lg\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
+    font-size: 3.5rem;
   }
 
   .lg\:text-6xl {
@@ -148463,8 +148459,7 @@ video {
   }
 
   .xl\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
+    font-size: 3.5rem;
   }
 
   .xl\:text-6xl {
@@ -179862,8 +179857,7 @@ video {
   }
 
   .\32xl\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
+    font-size: 3.5rem;
   }
 
   .\32xl\:text-6xl {

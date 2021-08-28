@@ -6,6 +6,9 @@ module.exports = {
       Poppins: ["Poppins", "sans-serif"],
     },
     extend: {
+      fontSize: {
+        "5xl": "3.5rem",
+      },
       colors: {
         body: "#383838",
       },
