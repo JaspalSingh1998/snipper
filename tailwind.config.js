@@ -11,6 +11,7 @@ module.exports = {
       },
       colors: {
         body: "#383838",
+        muted: "#ADADAD",
       },
       backgroundImage: (theme) => ({
         "hero-bg": 'url("/asset/Background.png")',
