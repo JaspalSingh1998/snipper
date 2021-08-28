@@ -13,5 +13,35 @@
     <link rel="stylesheet" href="./dist/tailwind.css" />
     <title>Snippet Landing Page</title>
   </head>
-  <body class="font-Poppins"></body>
+  <body class="font-Poppins">
+    <header
+      class="
+        bg-hero-bg bg-cover bg-no-repeat
+        px-5
+        pt-10
+        md:px-10
+        lg:pt-14
+        lg:px-36
+        min-h-screen
+      "
+    >
+      <nav class="flex justify-between items-center">
+        <a href="./index.html"
+          ><img src="./asset/Logo.svg" alt="Logo" class="Logo"
+        /></a>
+        <img
+          src="./asset/Hamburger Menu.svg"
+          alt="Menu-button"
+          class="menu-btn cursor-pointer md:hidden"
+        />
+        <div class="hidden md:flex gap-6 items-center">
+          <img src="./asset/Search Icon.svg" alt="Search Icon" />
+          <p>Sign in</p>
+          <button class="bg-black text-white py-4 px-6 rounded-md font-bold">
+            Get Started - <span class="font-normal">it's free</span>
+          </button>
+        </div>
+      </nav>
+    </header>
+  </body>
 </html>

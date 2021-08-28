@@ -9,6 +9,9 @@ module.exports = {
       colors: {
         body: "#383838",
       },
+      backgroundImage: (theme) => ({
+        "hero-bg": 'url("/asset/Background.png")',
+      }),
     },
   },
   variants: {
