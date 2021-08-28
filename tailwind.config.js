@@ -14,7 +14,7 @@ module.exports = {
         muted: "#ADADAD",
       },
       backgroundImage: (theme) => ({
-        "hero-bg": 'url("./asset/Background.png")',
+        "hero-bg": 'url("../asset/Background.png")',
       }),
     },
   },
